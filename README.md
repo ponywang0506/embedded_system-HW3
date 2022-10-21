@@ -8,8 +8,6 @@ This is the program to let raspberry pi be a gatt client, which can find gatt se
 4. Enter the index of the found server in the list  
 <a href="https://imgur.com/WUrqlCS"><img src="https://i.imgur.com/WUrqlCS.png" title="source: imgur.com" /></a>
 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 We will then modify descriptors' value successfully.
 (May change the code in the corresponding part to do more write/read operation)
 
