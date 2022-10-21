@@ -19,6 +19,8 @@ We will then modify descriptors' value successfully.
 
 ### Server Log
 
+The Gatt Server in example is set by the application **BLE Tool** which can be found on Google Play.
+
 <img width="50%" height="50%" src="https://i.imgur.com/tvgeMUq.jpg">
 
 <img width="50%" height="50%" src="https://i.imgur.com/RQgeniV.jpg">
