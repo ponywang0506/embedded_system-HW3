@@ -3,7 +3,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 This is the program to let raspberry pi be a gatt client, which can find gatt server around and read/write data from it.
 <p align="center">
-<img width="460" height="300" src="https://i.imgur.com/YmHeMx7.png">
+<img width="50%" height="50%" src="https://i.imgur.com/YmHeMx7.png">
 </p>
 
 
