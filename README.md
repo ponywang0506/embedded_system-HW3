@@ -1,6 +1,6 @@
 # Embedded System HW3
 ## Introduction
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 This is the program to let raspberry pi be a gatt client, which can find gatt server around and read/write data from it. 
 1. Upload ```server.py``` to raspberry pi by ssh command.
 2. Open the Gatt server for our program to find (for example, BLE Tool on Google Play)
