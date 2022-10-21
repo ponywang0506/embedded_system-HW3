@@ -59,9 +59,4 @@ finally:
     dev.disconnect()
 
 
-'''
-des = dev.getDescriptors(uuid = UUID(0x2902))[0]
-if (des.supportsRead()):
-    print(des.read())
-des.write(0x0002)
-'''
+
