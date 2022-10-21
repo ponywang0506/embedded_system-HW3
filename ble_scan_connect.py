@@ -27,7 +27,7 @@ num = int(number)
 print (addr[num])
 #
 print ("Connecting...")
-dev = Peripheral(addr[num], 'random')
+dev = Peripheral(addr[num],'random')
 #
 print ("Services...")
 for svc in dev.services:
@@ -48,12 +48,10 @@ try:
 
     for descriptor in dev.getDescriptors(testService.hndStart,testService.hndEnd):
         if (descriptor.uuid==0x2902):
-            print("Before write:",descriptor.read())
             h = descriptor.handle
-            print("h =",h)
+            print("Find descriptor whose uuid = 0x2902")
+            print("write in descriptor whose uuid = 0x2902:","0x0002")
             dev.writeCharacteristic(h,b'\x02\x00')
-            print("After write:",descriptor.read())
-            print("readCharacteristic =",dev.readCharacteristic(descriptor.handle))
 
 
     
