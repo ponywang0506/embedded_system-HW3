@@ -24,5 +24,5 @@ This is the program to let raspberry pi be a gatt client, which can find gatt se
 <img width="400" height="300" src="https://i.imgur.com/tvgeMUq.jpg">
 </p>
 <p align="center">
-<img width="460" height="300" src="https://i.imgur.com/tvgeMUq.jpg">
+<img width="460" height="300" src="https://i.imgur.com/RQgeniV.jpg">
 </p>
