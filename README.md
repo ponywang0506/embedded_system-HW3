@@ -1,6 +1,6 @@
 # Embedded System HW3
 ## Introduction
-&nbsr;&nbsr;&nbsr;&nbsr;&nbsr;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 This is the program to let raspberry pi be a gatt client, which can find gatt server around and read/write data from it.
 
 
